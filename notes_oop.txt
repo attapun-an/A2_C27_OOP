@@ -1,0 +1,66 @@
+OOP
+ 
+Let's say we want to make a system on the library
+ 
+You need then, to store information about books
+ 
+ 
+You could do. title = input("intput title"), autho...
+ 
+But then what if you have to put your second book...
+ 
+ 
+In a library we have many books. 
+So instead in object oriented programming
+We make our own data type. So we are dealing with Books(objects)
+ 
+Making a class is saying "this is what a book is like"
+ 
+ 
+This is a book [object]:
+every book has a title
+every book has a author
+ 
+That's great, because now, we can have a array of books.
+ 
+[Book1, Book2, Book3]
+ 
+Inside every book, it has a title, and a subtitle
+ 
+----
+ 
+It's a new Paradigm (way to do things) *it's just a good word (not related to programming)
+ 
+OOP mirrors real world objects more closely
+ 
+ 
+For example a Car:
+ 
+A car will have characteristics: color, fuel
+A car will have behaviors:
+for example, acceleration will take fuel from the car, and change it to speed.
+ 
+The old style (AS level) we've stored things in variables, and procedures. 
+This is the same thing. Except we use different name, and use them in a different paradigm:
+Attributes (characteristics)
+Methods (behaviors)
+ 
+A class definition is a blueprint that we can use to create multiple cars. 
+The process of creating a software object from a class definition is instantiation. (instancing)
+ 
+One car may be green, one may be blue. 
+ 
+These software things are called Instances
+ 
+ 
+-
+ 
+In python:
+ 
+somewhere in python, there will be a class called string:
+it has length
+it has characters used
+ 
+when we are using a string, we are just using a class that someone else wrote! 
+ 
+Now, we are learning to make our own. 
